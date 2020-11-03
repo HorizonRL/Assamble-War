@@ -4,3 +4,5 @@ Assemblee 8086.
 
 A demo: 
 https://youtu.be/kNDzn4F9pzo
+
+The manual is in the name_file: WAR.pdf
