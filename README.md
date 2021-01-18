@@ -1,5 +1,5 @@
 Assamble war is a 10th grade project that i did back then.
-This game runs on a dos emulator - DOSBOX with the Tasm libs.
+This game runs on a dos emulator - DOSBOX x86 with the tasm libs.
 Assemblee 8086.
 
 A demo: 
